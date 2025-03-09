@@ -13,7 +13,7 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:catherinebertozzi@uvic.ca",
+		href: "mailto:grace.bertozzi@gmail.com",
 		label: "Email",
 		handle: "catherinebertozzi@uvic.ca",
 	},
